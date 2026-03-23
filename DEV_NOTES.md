@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Refactored module structure for clarity
 - Updated .gitignore to exclude build artifacts
 - Resolved deprecation warnings
+
+## 2026-03-23
+- Added .editorconfig for consistent formatting
